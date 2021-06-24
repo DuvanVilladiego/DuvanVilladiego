@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Duvan Villadiego
-# Full Stack Developer 👨‍💻
+# Duvan Villadiego
+### Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-Duvan_Villadiego-blue)](https://www.linkedin.com/in/duvan-villadiego/)
 [![](https://img.shields.io/badge/Gmail-Duvan.villadiego.oficial%40gmail.com-red)](mailto:duvan.villadiego.oficial@gmail.com)
