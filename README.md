@@ -4,6 +4,7 @@
 ### Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-Duvan_Villadiego-blue)](https://www.linkedin.com/in/duvan-villadiego/)
+
 [![](https://img.shields.io/badge/Gmail-Duvan.villadiego.oficial%40gmail.com-red)](mailto:duvan.villadiego.oficial@gmail.com)
 [![](https://img.shields.io/badge/Instagram-Duvan_Villadiego-c13584)](https://www.instagram.com/duvanvilladiego/)
 
