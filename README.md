@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const ashraf = {
+const Duvan = {
     pronouns: "He" | "Him",
     askMeAbout: ["Web dev", "Tech", "StackMean"],
     technologies:{
