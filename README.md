@@ -24,6 +24,3 @@ const Duvan = {
     architecture: [Single page applications"],
 }
 ```
-
----
-⭐️ From [@DuvanVilladiego](https://github.com/DuvanVilladiego)
