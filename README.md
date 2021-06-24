@@ -21,6 +21,6 @@ const Duvan = {
         database: ["mongoDb", "dbeaver"],
         serverless: ["mongo-atlas"],
     },
-    architecture: [Single page applications"],
+    architecture: ["Single page applications"],
 }
 ```
