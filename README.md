@@ -1,16 +1,27 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**DuvanVilladiego/DuvanVilladiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Duvan Villadiego
+## Full Stack Developer 👨‍💻
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/duvan-villadiego/)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:duvan.villadiego.oficial@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const ashraf = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["Web dev", "Tech", "StackMean"],
+    technologies:{
+        backEnd: ["Nodejs", "Express", "Python"],
+        fronEnd: ["angular", "Javascript"],
+        database: ["mongoDb", "dbeaver"],
+        serverless: ["mongo-atlas"],
+    },
+    architecture: [Single page applications"],
+}
+```
+
+---
+⭐️ From [@ashrafkm](https://github.com/DuvanVilladiego)
