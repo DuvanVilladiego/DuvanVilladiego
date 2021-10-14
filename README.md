@@ -13,13 +13,12 @@
 ```javascript
 const Duvan = {
     pronouns: "He" | "Him",
-    askMeAbout: ["Web dev", "Tech", "StackMean"],
+    askMeAbout: ["Web dev", "Tech", "StackMean", "StackMern"],
     technologies:{
-        backEnd: ["Nodejs", "Express", "Python"],
-        fronEnd: ["angular", "Javascript"],
-        database: ["mongoDb", "dbeaver"],
+        backEnd: ["Nodejs", "Express"],
+        fronEnd: ["Angular", "React" ,"Javascript"],
+        database: ["MongoDb", "dbeaver"],
         serverless: ["mongo-atlas"],
     },
-    architecture: ["Single page applications"],
 }
 ```
