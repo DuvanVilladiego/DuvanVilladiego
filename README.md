@@ -15,10 +15,15 @@ const Duvan = {
     pronouns: "He" | "Him",
     askMeAbout: ["Fullstack Development"],
     technologies:{
-        backEnd: ["Nodejs", "Express", "Springboot", "Java", "Golang"],
-        fronEnd: ["Angular", "React", "Javascript", "Vuejs"],
+        backEnd: ["Java", "Springboot", "Nodejs", "Express", "Golang"],
+        fronEnd: ["Angular", "React", "Javascript", "Vuejs", "PrimeNg"],
+        unitTests: ["Junit", "Mockito", "Jasmine"],
         database: ["MongoDb", "Postgres", "MySql", "SqlServer"],
         Colas: ["ActiveMq"]
     },
+    methodologies: ["Scrum"],
+    tools: ["Jenkins", "SonarQe"],
+    architectures: ["Microservicios", "Hexagonal"],
+    patternDesigns: ["Factory", "Prototipe", "Adapter", "Builder"]    
 }
 ```
