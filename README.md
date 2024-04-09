@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Full Stack Developer 👨‍💻
+### Backend Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-Duvan_Villadiego-blue)](https://www.linkedin.com/in/duvan-villadiego/)
 [![](https://img.shields.io/badge/Instagram-Duvan_Villadiego-c13584)](https://www.instagram.com/duvanvilladiego/)
