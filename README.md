@@ -12,8 +12,8 @@
 
 ```javascript
 const Duvan = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["Fullstack Development"],
+    pronouns: ["He", "Him"],
+    askMeAbout: ["Backend Development"],
     technologies:{
         backEnd: ["Java", "Springboot", "Nodejs", "Express", "Golang"],
         fronEnd: ["Angular", "React", "Javascript", "Vuejs", "PrimeNg"],
@@ -22,8 +22,8 @@ const Duvan = {
         Colas: ["ActiveMq"]
     },
     methodologies: ["Scrum"],
-    tools: ["Jenkins", "SonarQe"],
-    architectures: ["Microservicios", "Hexagonal"],
-    patternDesigns: ["Factory", "Prototipe", "Adapter", "Builder"]    
+    architectures: ["Microservices", "Hexagonal"],
+    patternDesigns: ["Factory", "Prototipe", "Adapter", "Builder"],,
+    tools: ["Jenkins", "SonarQe"]
 }
 ```
