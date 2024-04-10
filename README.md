@@ -26,7 +26,7 @@ const Duvan = {
     },
     methodologies: ["Scrum"],
     architectures: ["Microservices", "Hexagonal"],
-    patternDesigns: ["Factory", "Prototipe", "Adapter", "Builder"],,
+    patternDesigns: ["Factory", "Prototipe", "Adapter", "Builder"],
     tools: ["Jenkins", "SonarQe"]
 }
 ```
