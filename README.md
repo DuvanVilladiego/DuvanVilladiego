@@ -30,4 +30,3 @@ const Duvan = {
     tools: ["Jenkins", "SonarQe"]
 }
 ```
-[![roadmap.sh](https://roadmap.sh/card/tall/663ba38122d90a0814c51d8c?variant=dark&roadmaps=backend%2Cpostgresql-dba%2Csoftware-design-architecture%2Cspring-boot)](https://roadmap.sh)
