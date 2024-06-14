@@ -7,7 +7,7 @@
 
 [![](https://img.shields.io/badge/Gmail-Duvan.villadiego.oficial%40gmail.com-red)](mailto:duvan.villadiego.oficial@gmail.com)
 
->Desarrollador Fullstack certificado con más de 2 años de experiencia, apasionado por la tecnología de la información y especializado en desarrollo Backend. Mi experiencia en este campo abarca la creación de aplicaciones Java en conjunto con el robusto framework Spring Boot y PostgreSQL.
+>Desarrollador Fullstack certificado con aproximadamente 3 años de experiencia, apasionado por la tecnología de la información y especializado en desarrollo Backend. Mi experiencia en este campo abarca la creación de aplicaciones Java en conjunto con el robusto framework Spring Boot y PostgreSQL.
 Complemento mis habilidades con conocimientos sólidos en Angular y React para el desarrollo Frontend, además de contar con experiencia en metodologías ágiles como Scrum. Actualmente, estoy buscando nuevas oportunidades laborales en el sector Fintech como desarrollador Backend.
 Estas habilidades combinadas, junto con mi capacidad de gestión del tiempo, análisis e innovación, me convierten en un profesional versátil y completo capaz de adaptarse a los desafíos que se presenten.
 
