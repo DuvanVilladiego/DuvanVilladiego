@@ -11,22 +11,24 @@
 Complemento mis habilidades con conocimientos sólidos en Angular y React para el desarrollo Frontend, además de contar con experiencia en metodologías ágiles como Scrum. Actualmente, estoy buscando nuevas oportunidades laborales en el sector Fintech como desarrollador Backend.
 Estas habilidades combinadas, junto con mi capacidad de gestión del tiempo, análisis e innovación, me convierten en un profesional versátil y completo capaz de adaptarse a los desafíos que se presenten.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-```javascript
-const Duvan = {
-    pronouns: ["He", "Him"],
-    askMeAbout: ["Backend Development"],
-    technologies:{
-        backEnd: ["Java", "Springboot", "Nodejs", "Express"],
-        fronEnd: ["Angular", "React", "Javascript", "PrimeNg"],
-        unitTests: ["Junit", "Mockito", "Jasmine"],
-        database: ["MongoDb", "Postgres", "MySql", "SqlServer"],
-        Colas: ["ActiveMq"]
-    },
-    methodologies: ["Scrum"],
-    architectures: ["Microservices", "Hexagonal"],
-    patternDesigns: ["Factory", "Prototipe", "Adapter", "Builder"],
-    tools: ["Jenkins", "SonarQe"]
+👨‍💻 About Me in Java Style
+```java
+public class Duvan {
+    String[] pronouns = {"He", "Him"};
+    String[] askMeAbout = {"Backend Development"};
+
+    String[] backEnd = {"Java", "Springboot", "Nodejs", "Express"};
+    String[] frontEnd = {"Angular", "React", "Javascript", "PrimeNg"};
+    String[] unitTests = {"Junit", "Mockito", "Jasmine"};
+    String[] database = {"MongoDb", "Postgres", "MySql", "SqlServer"};
+    String[] queues = {"ActiveMq"};
+
+    String[] methodologies = {"Scrum"};
+    String[] architectures = {"Microservices", "Hexagonal"};
+    String[] patternDesigns = {"Factory", "Prototipe", "Adapter", "Builder"};
+    String[] tools = {"Jenkins", "SonarQe"};
 }
+
 ```
