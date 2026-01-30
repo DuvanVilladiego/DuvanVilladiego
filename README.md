@@ -29,7 +29,7 @@ I’m interested in environments that value **code quality, thoughtful design, a
   "databases": ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"],
   "messaging": ["RabbitMQ", "ActiveMQ"],
   "architectures": ["Microservices", "Hexagonal", "Clean Architecture", "Monolithic"],
-  "designPatterns": ["Strategy", "Builder"],
+  "designPatterns": ["Strategy", "Builder", "Factory", "Circuit Breaker", "Facade", "Singleton"],
   "devOps": ["Docker", "Jenkins", "CI/CD", "AWS (Basic)"],
   "testing": ["JUnit", "Mockito", "Jasmine", "JMeter"],
   "frontendSkills": ["Angular", "React"],
