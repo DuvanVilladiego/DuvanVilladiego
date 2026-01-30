@@ -32,7 +32,6 @@ I’m interested in environments that value **code quality, thoughtful design, a
   "designPatterns": ["Strategy", "Builder", "Factory", "Circuit Breaker", "Facade", "Singleton"],
   "devOps": ["Docker", "Jenkins", "CI/CD", "AWS (Basic)"],
   "testing": ["JUnit", "Mockito", "Jasmine", "JMeter"],
-  "frontendSkills": ["Angular", "React"],
   "practices": ["Clean Code", "SOLID", "Agile", "Scrum", "KISS", "YAGNI", "ATOMIC"],
   "tools": ["SonarQube", "Postman", "Git", "Github Actions"]
 }
