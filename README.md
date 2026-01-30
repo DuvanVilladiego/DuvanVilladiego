@@ -24,15 +24,16 @@ I’m interested in environments that value **code quality, thoughtful design, a
 
 ```json
 {
-  "role": "Backend Developer",
-  "focus": "Simple, reliable systems",
-  "coreStack": ["Java", "Spring Boot", ".NET", "C#"],
+  "languages": ["Java", "C#", "Python"],
+  "frameworks": ["Spring Boot", ".NET"],
   "databases": ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"],
   "messaging": ["RabbitMQ", "ActiveMQ"],
-  "testing": ["JUnit", "Mockito", "Jasmine"],
-  "frontendAwareness": ["Angular", "React", "TypeScript"],
-  "architectures": ["Microservices", "Hexagonal", "Monolithic"],
-  "practices": ["Clean Code", "SOLID", "Agile", "Scrum"],
-  "tools": ["Jenkins", "SonarQube", "Postman"]
+  "architectures": ["Microservices", "Hexagonal", "Clean Architecture", "Monolithic"],
+  "designPatterns": ["Strategy", "Builder"],
+  "devOps": ["Docker", "Jenkins", "CI/CD", "AWS (Basic)"],
+  "testing": ["JUnit", "Mockito", "Jasmine", "JMeter"],
+  "frontendSkills": ["Angular", "React"],
+  "practices": ["Clean Code", "SOLID", "Agile", "Scrum", "KISS", "YAGNI", "ATOMIC"],
+  "tools": ["SonarQube", "Postman", "Git", "Github Actions"]
 }
 ```
