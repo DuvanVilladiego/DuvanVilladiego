@@ -1,6 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
 
-## Backend Developer 👨‍💻
+## Software Engineer 👨‍💻
 
 **Java & .NET | Simple, reliable systems**
 
@@ -11,7 +11,7 @@
 
 ### 👋 Profile
 
-Backend Developer with experience building **reliable, maintainable, and scalable systems** using **Java (Spring Boot)** and **.NET**.
+Software Engineer with experience building **reliable, maintainable, and scalable systems** using **Java (Spring Boot)** and **.NET**.
 Focused on **clean architecture, business logic, and data-driven applications**, with a strong preference for simplicity and long-term maintainability.
 
 I have working knowledge of modern frontend frameworks, enabling effective collaboration in full-stack teams while keeping my primary focus on **backend engineering and system design**.
@@ -27,7 +27,7 @@ I’m interested in environments that value **code quality, thoughtful design, a
   "languages": ["Java", "C#", "Python"],
   "frameworks": ["Spring Boot", ".NET"],
   "databases": ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"],
-  "messaging": ["RabbitMQ", "ActiveMQ"],
+  "messaging": ["RabbitMQ", "ActiveMQ", "Apache Kafka"],
   "architectures": ["Microservices", "Hexagonal", "Clean Architecture", "Monolithic"],
   "designPatterns": ["Strategy", "Builder", "Factory", "Circuit Breaker", "Facade", "Singleton"],
   "devOps": ["Docker", "Jenkins", "CI/CD", "AWS (Basic)"],
